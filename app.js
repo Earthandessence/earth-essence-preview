@@ -1,5 +1,5 @@
 'use strict';
-const tabs=['home','plants','preparations','recipes','journal','seasons','community'];
+const tabs=['home','plants','preparations','recipes','journal','seasons','community','membership'];
 const features=[['🌱','Plant Library','150 research entries · 100 more coming soon.','plants'],['⚗️','Preparation Room','Explore teas, oils, salves and traditional preparation concepts.','preparations'],['🍯','Recipe Garden','Discover simple culinary botanical inspiration.','recipes'],['📖','Wisdom Journal','Keep your personal reflections on this device.','journal'],['🍂','Seasonal Almanac','Connect with the rhythms of the seasons.','seasons'],['🤝','Community','A future gathering space for members.','community']];
 const plantData=window.EARTH_PLANTS||[];
 const photoCache=new Map();let shown=24;let lastFocus=null;
