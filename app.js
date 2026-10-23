@@ -12,25 +12,64 @@ function photo(p){const d=document.createElement('div');d.className='art';const 
 function filtered(){const q=el('search').value.trim().toLocaleLowerCase();const f=el('filter').value;return plantData.filter(p=>(p.name+' '+p.scientific).toLocaleLowerCase().includes(q)&&(f==='all'||p.review===f))}
 function renderPlants(){const all=filtered(),grid=el('plantgrid');grid.replaceChildren();el('count').textContent=`Showing ${Math.min(all.length,shown)} of ${all.length} matching plants`;el('more').classList.toggle('hidden',shown>=all.length);for(const p of all.slice(0,shown)){const b=document.createElement('button');b.className='plant';b.type='button';b.setAttribute('aria-label','Open '+p.name+' botanical profile');const info=document.createElement('div');info.className='planttext';const title=document.createElement('strong');title.textContent=p.name;const sci=document.createElement('em');sci.textContent=p.scientific;const status=document.createElement('span');status.className='tag';status.textContent=p.review==='coming_soon'?'Coming Soon':(p.launch_group==='initial_150'?'Explore profile':'Research pending');info.append(title,sci,status);b.append(photo(p),info);b.onclick=()=>{if(p.review!=='coming_soon')openProfile(p,b)};if(p.review==='coming_soon'){b.disabled=true;b.setAttribute('aria-label',p.name+' coming soon')}grid.append(b)}loadVisiblePhotos(all.slice(0,shown))}
 el('search').addEventListener('input',()=>{shown=24;renderPlants()});el('filter').addEventListener('change',()=>{shown=24;renderPlants()});el('more').onclick=()=>{shown+=24;renderPlants()};
-function openProfile(p,focus){lastFocus=focus;el('modalTitle').textContent=p.name;el('modalLatin').textContent=p.scientific;el('modalStatus').textContent='Educational draft · Individual medical and photo review pending';el('modalOverview').textContent=p.overview;el('modalTradition').textContent=p.tradition;el('modalSafety').textContent=p.safety;el('modalArt').replaceChildren(photo(p));if(!photoCache.has(p.wiki)){loadVisiblePhotos([p]).then(()=>{if(el('modal').classList.contains('show')&&el('modalTitle').textContent===p.name)el('modalArt').replaceChildren(photo(p))})}el('modalRef').href='https://en.wikipedia.org/wiki/'+encodeURIComponent(p.wiki);renderProfileTab(p,'overview');el('modal').classList.add('show');el('close').focus()}
-
+let currentProfile=null;
+function openProfile(p,focus){
+  currentProfile=p;lastFocus=focus;
+  el('modalTitle').textContent=p.name;
+  el('modalLatin').textContent=p.scientific;
+  el('modalStatus').textContent='Educational draft · Individual medical and photo review pending';
+  el('modalOverview').textContent=p.overview||'';
+  el('modalTradition').textContent=p.tradition||'';
+  el('modalSafety').textContent=p.safety||'';
+  el('modalArt').replaceChildren(photo(p));
+  el('modalRef').href='https://en.wikipedia.org/wiki/'+encodeURIComponent(p.wiki||p.scientific);
+  el('modal').classList.add('show');
+  renderProfileTab(p,'overview');
+  if(!photoCache.has(p.wiki))loadVisiblePhotos([p]).then(()=>{
+    if(currentProfile===p&&el('modal').classList.contains('show'))el('modalArt').replaceChildren(photo(p));
+  }).catch(()=>{});
+  el('close').focus();
+}
 function renderProfileTab(p,section){
-  const blocks={
+  const content={
     overview:[['Meet the plant',p.overview],['Historical context',p.history],['Plant parts',p.plant_parts],['Growing notes',p.growing]],
     uses:[['Traditional context',p.tradition],['Traditional uses',p.traditional_uses]],
-    preparation:[['Preparation context',p.preparation],['Important note','Descriptions are educational, not preparation or dosage instructions. Some species are poisonous or unsafe to ingest.']],
+    preparation:[['Preparation context',p.preparation],['Important note','Educational context only, not preparation or dosage instructions. Some species are poisonous or unsafe to ingest.']],
     safety:[['Safety notes',p.safety],['Medication interactions',p.drug_interactions],['Pregnancy and breastfeeding',p.pregnancy_breastfeeding],['Unverified safety',p.unverified_safety_warning]],
     evidence:[['Scientific evidence',p.research_evidence],['Source status',p.source_references||'Plant-specific sources have not yet been verified.']],
-    identify:[['Plant identification',p.identification],['Scientific name',p.scientific],['Plant parts',p.plant_parts],['Image review','Reference photo not individually species-matched or licensed for commercial reuse. Do not identify wild plants from a single image.']]
+    identify:[['Plant identification',p.identification],['Scientific name',p.scientific],['Plant parts',p.plant_parts],['Image review','Reference imagery is not individually verified for identification or commercial licensing.']]
   };
-  document.querySelectorAll('[data-profile]').forEach(b=>{b.classList.toggle('active',b.dataset.profile===section);b.setAttribute('aria-selected',String(b.dataset.profile===section))});
-  const host=el('profileContent');host.replaceChildren();
-  for(const [heading,body] of blocks[section]||blocks.overview){const card=document.createElement('section');card.className='profile-section'+(section==='safety'?' safety':'');const h=document.createElement('h3');h.textContent=heading;const para=document.createElement('p');para.textContent=body||'Not yet reviewed';card.append(h,para);host.append(card)}
-  const note=document.createElement('div');note.className='profile-banner';note.textContent='🌿 Educational research draft — not a verified medical reference. Plant identity, image licensing, and safety review remain pending.';host.append(note);
+  const host=el('profileContent');
+  if(!host)return;
+  host.style.display='block';
+  host.hidden=false;
+  host.replaceChildren();
+  const rows=content[section]||content.overview;
+  rows.forEach(([heading,body])=>{
+    const card=document.createElement('section');card.className='profile-section'+(section==='safety'?' safety':'');
+    const h=document.createElement('h3');h.textContent=heading;
+    const para=document.createElement('p');para.textContent=String(body||'Not yet reviewed');
+    card.appendChild(h);card.appendChild(para);host.appendChild(card);
+  });
+  const note=document.createElement('div');note.className='profile-banner';
+  note.textContent='Educational research draft — not a verified medical reference. Species identity, photo licensing, and safety review remain pending.';
+  host.appendChild(note);
+  document.querySelectorAll('[data-profile]').forEach(btn=>{
+    const active=btn.dataset.profile===section;
+    btn.classList.toggle('active',active);
+    btn.setAttribute('aria-selected',String(active));
+    btn.setAttribute('type','button');
+  });
 }
-document.querySelectorAll('[data-profile]').forEach(b=>b.addEventListener('click',()=>{const p=plantData.find(x=>x.name===el('modalTitle').textContent);if(p)renderProfileTab(p,b.dataset.profile)}));
+// Delegated clicks work even when the tab bar is rebuilt or the profile changes.
+document.addEventListener('click',event=>{
+  const btn=event.target.closest('[data-profile]');
+  if(!btn||!currentProfile)return;
+  event.preventDefault();
+  renderProfileTab(currentProfile,btn.dataset.profile);
+});
 
-function closeProfile(){el('modal').classList.remove('show');lastFocus?.focus()}
+function closeProfile(){el('modal').classList.remove('show');currentProfile=null;lastFocus?.focus()}
 el('close').onclick=closeProfile;el('modal').addEventListener('click',e=>{if(e.target===el('modal'))closeProfile()});document.addEventListener('keydown',e=>{if(e.key==='Escape'&&el('modal').classList.contains('show'))closeProfile();if(e.key==='Tab'&&el('modal').classList.contains('show')){const focusable=[...el('modal').querySelectorAll('button,a[href]')];if(e.shiftKey&&document.activeElement===focusable[0]){e.preventDefault();focusable.at(-1).focus()}else if(!e.shiftKey&&document.activeElement===focusable.at(-1)){e.preventDefault();focusable[0].focus()}}});
 // External images are optional references, NOT bundled/licensed for commercial use.
 let photoLoading=false;const requested=new Set();async function loadVisiblePhotos(items){if(photoLoading||!navigator.onLine)return;const todo=items.filter(p=>!requested.has(p.wiki)).slice(0,20);if(!todo.length)return;todo.forEach(p=>requested.add(p.wiki));photoLoading=true;try{const url='https://en.wikipedia.org/w/api.php?action=query&format=json&origin=*&redirects=1&prop=pageimages&pithumbsize=550&titles='+encodeURIComponent(todo.map(p=>p.wiki).join('|'));const r=await fetch(url,{signal:AbortSignal.timeout(8000)});if(r.ok){const data=await r.json();for(const page of Object.values(data.query?.pages||{})){const normalize=t=>String(t||'').replaceAll('_',' ').trim().toLocaleLowerCase();const redirectMap=new Map((data.query?.redirects||[]).map(r=>[normalize(r.from),normalize(r.to)]));const normalizedPage=normalize(page.title);const match=todo.find(p=>{const requested=normalize(p.wiki);return requested===normalizedPage||redirectMap.get(requested)===normalizedPage});if(match&&page.thumbnail?.source)photoCache.set(match.wiki,page.thumbnail.source)}const oldScroll=window.scrollY;renderVisiblePhotos();window.scrollTo(0,oldScroll)}}catch(e){}finally{photoLoading=false;const remaining=items.filter(p=>!requested.has(p.wiki));if(remaining.length)loadVisiblePhotos(remaining)}}

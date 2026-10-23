@@ -1,0 +1,7 @@
+EARTH & ESSENCE PROFILE DISPLAY FIX
+
+Fixes: stores the open plant explicitly; handles all six profile tabs with delegated click events; ensures the profile information area is visible; shows Overview by default.
+
+To upload: extract ZIP, upload the website files and assets folder into the SAME GitHub Pages repository. Commit changes. Refresh your test site after deployment.
+
+The 150 educational draft profiles and 100 Coming Soon records are preserved. Photos and medical claims have NOT been independently verified.
