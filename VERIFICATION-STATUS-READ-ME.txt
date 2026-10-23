@@ -1,0 +1,16 @@
+EARTH & ESSENCE — COMPLETE 150-ENTRY VERIFICATION AUDIT (not completed scientific verification)
+
+Audited every one of 150 entries for presence of key profile fields and review flags.
+High-priority safety review flags: 7; other entries: 143.
+NO entry has been marked medically verified or photo-license cleared.
+This package retains the previously working website code and 250 entries.
+The CSV contains one row per active plant, missing/generic fields, review priority, and lookup resources.
+The audit is a completeness/triage pass, NOT 150 individual authoritative botanical, clinical, historical, image or licensing checks.
+All 150 must remain educational drafts pending individual reference verification and expert safety review.
+
+Sources for future checks:
+Kew Plants of the World Online: https://powo.science.kew.org/
+NCCIH Herbs at a Glance: https://www.nccih.nih.gov/health/herbsataglance
+Wikimedia Commons reuse: https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia
+
+Do not publish this as medically verified or use for diagnosis/treatment.
