@@ -25,6 +25,7 @@ function openProfile(p,focus){
   el('modalRef').href='https://en.wikipedia.org/wiki/'+encodeURIComponent(p.wiki||p.scientific);
   el('modal').classList.add('show');
   renderProfileTab(p,'overview');
+  document.querySelectorAll('[data-profile]').forEach(btn => {btn.onclick = () => renderProfileTab(p,btn.dataset.profile);});
   if(!photoCache.has(p.wiki))loadVisiblePhotos([p]).then(()=>{
     if(currentProfile===p&&el('modal').classList.contains('show'))el('modalArt').replaceChildren(photo(p));
   }).catch(()=>{});
@@ -80,4 +81,4 @@ cards('recipegrid',[['🍋','Citrus & mint water','Add washed culinary mint leav
 cards('seasonGrid',[['🌸','Spring','Observe new growth, plant seeds suited to your region and keep a garden journal.'],['☀️','Summer','Enjoy flowering herbs, water thoughtfully and identify plants before harvesting.'],['🍁','Autumn','Record seed heads, changing leaves and garden preparation for cooler months.'],['❄️','Winter','Plan your next growing season and revisit your botanical notes.']]);
 const key='earth-essence-local-journal-v1';function readEntries(){try{return JSON.parse(localStorage.getItem(key)||'[]')}catch{return []}}function renderEntries(){el('entries').replaceChildren();readEntries().forEach(item=>{const a=document.createElement('article');const strong=document.createElement('strong');strong.textContent=item.date+' — ';const span=document.createElement('span');span.textContent=item.text;a.append(strong,span);el('entries').append(a)})}el('saveEntry').onclick=()=>{const t=el('journalText').value.trim();if(!t)return;const entries=readEntries();entries.unshift({date:new Date().toLocaleDateString(),text:t});try{localStorage.setItem(key,JSON.stringify(entries.slice(0,100)))}catch{alert('Storage is unavailable on this device. Please copy your entry elsewhere.');return}el('journalText').value='';renderEntries()};el('clearEntries').onclick=()=>{if(confirm('Delete all journal entries saved on this device?')){localStorage.removeItem(key);renderEntries()}};renderEntries();
 window.addEventListener('hashchange',()=>go(location.hash.slice(1)));go(location.hash.slice(1)||'home');
-if('serviceWorker'in navigator&&location.protocol.startsWith('http'))navigator.serviceWorker.register('./sw.js').catch(()=>{});
+// Offline worker disabled until reliable cache versioning is implemented.
