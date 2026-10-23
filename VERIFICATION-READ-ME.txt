@@ -1,0 +1,7 @@
+EARTH & ESSENCE VERIFICATION — BATCH 01
+
+This package retains the previously working cache/tabs repair app. Three profiles (Aloe vera, Ginger, Turmeric) have been checked and updated using NIH sources. The remaining 147 active profiles and all plant images remain pending individual source/photo/license checks. This is NOT a certification of medicinal safety or a commercially cleared image library.
+
+Changes were applied to both plants.json and plants-data.js to keep the app data synchronized.
+
+Do not upload this ZIP unless you wish to update these three profiles now.

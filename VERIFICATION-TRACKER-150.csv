@@ -1,0 +1,151 @@
+plant,scientific_name,information_verification,photo_verification,reference,review_note
+Aloe vera,Aloe vera,NIH source-checked; editorial review still recommended,Not yet species/license verified,NIH NCCIH: https://www.nccih.nih.gov/health/aloe-vera,Updated history/evidence/safety wording
+Calendula,Calendula officinalis,Not yet individually source-checked,Not yet species/license verified,,Pending
+Lavender,Lavandula angustifolia,Not yet individually source-checked,Not yet species/license verified,,Pending
+Rosemary,Salvia rosmarinus,Not yet individually source-checked,Not yet species/license verified,,Pending
+Chamomile,Matricaria chamomilla,Not yet individually source-checked,Not yet species/license verified,,Pending
+Ginger,Zingiber officinale,NIH source-checked; editorial review still recommended,Not yet species/license verified,NIH NCCIH: https://www.nccih.nih.gov/health/ginger,Updated history/evidence/safety wording
+Turmeric,Curcuma longa,NIH source-checked; editorial review still recommended,Not yet species/license verified,NIH NCCIH: https://www.nccih.nih.gov/health/turmeric ; NCBI LiverTox: https://www.ncbi.nlm.nih.gov/books/NBK548561/,Updated history/evidence/safety wording
+Peppermint,Mentha × piperita,Not yet individually source-checked,Not yet species/license verified,,Pending
+Dandelion,Taraxacum officinale,Not yet individually source-checked,Not yet species/license verified,,Pending
+Nettle,Urtica dioica,Not yet individually source-checked,Not yet species/license verified,,Pending
+Lemon Balm,Melissa officinalis,Not yet individually source-checked,Not yet species/license verified,,Pending
+Echinacea,Echinacea purpurea,Not yet individually source-checked,Not yet species/license verified,,Pending
+Sage,Salvia officinalis,Not yet individually source-checked,Not yet species/license verified,,Pending
+Thyme,Thymus vulgaris,Not yet individually source-checked,Not yet species/license verified,,Pending
+Basil,Ocimum basilicum,Not yet individually source-checked,Not yet species/license verified,,Pending
+Holy Basil,Ocimum tenuiflorum,Not yet individually source-checked,Not yet species/license verified,,Pending
+Oregano,Origanum vulgare,Not yet individually source-checked,Not yet species/license verified,,Pending
+Parsley,Petroselinum crispum,Not yet individually source-checked,Not yet species/license verified,,Pending
+Cilantro,Coriandrum sativum,Not yet individually source-checked,Not yet species/license verified,,Pending
+Dill,Anethum graveolens,Not yet individually source-checked,Not yet species/license verified,,Pending
+Fennel,Foeniculum vulgare,Not yet individually source-checked,Not yet species/license verified,,Pending
+Anise,Pimpinella anisum,Not yet individually source-checked,Not yet species/license verified,,Pending
+Caraway,Carum carvi,Not yet individually source-checked,Not yet species/license verified,,Pending
+Cumin,Cuminum cyminum,Not yet individually source-checked,Not yet species/license verified,,Pending
+Cardamom,Elettaria cardamomum,Not yet individually source-checked,Not yet species/license verified,,Pending
+Cinnamon,Cinnamomum verum,Not yet individually source-checked,Not yet species/license verified,,Pending
+Clove,Syzygium aromaticum,Not yet individually source-checked,Not yet species/license verified,,Pending
+Nutmeg,Myristica fragrans,Not yet individually source-checked,Not yet species/license verified,,Pending
+Black Pepper,Piper nigrum,Not yet individually source-checked,Not yet species/license verified,,Pending
+Cayenne Pepper,Capsicum annuum,Not yet individually source-checked,Not yet species/license verified,,Pending
+Garlic,Allium sativum,Not yet individually source-checked,Not yet species/license verified,,Pending
+Onion,Allium cepa,Not yet individually source-checked,Not yet species/license verified,,Pending
+Chives,Allium schoenoprasum,Not yet individually source-checked,Not yet species/license verified,,Pending
+Lemongrass,Cymbopogon citratus,Not yet individually source-checked,Not yet species/license verified,,Pending
+Hibiscus,Hibiscus sabdariffa,Not yet individually source-checked,Not yet species/license verified,,Pending
+Rose,Rosa × damascena,Not yet individually source-checked,Not yet species/license verified,,Pending
+Jasmine,Jasminum officinale,Not yet individually source-checked,Not yet species/license verified,,Pending
+Elderberry,Sambucus nigra,Not yet individually source-checked,Not yet species/license verified,,Pending
+Rosehip,Rosa canina,Not yet individually source-checked,Not yet species/license verified,,Pending
+Hawthorn,Crataegus monogyna,Not yet individually source-checked,Not yet species/license verified,,Pending
+Linden,Tilia cordata,Not yet individually source-checked,Not yet species/license verified,,Pending
+Passionflower,Passiflora incarnata,Not yet individually source-checked,Not yet species/license verified,,Pending
+Valerian,Valeriana officinalis,Not yet individually source-checked,Not yet species/license verified,,Pending
+Hops,Humulus lupulus,Not yet individually source-checked,Not yet species/license verified,,Pending
+Skullcap,Scutellaria lateriflora,Not yet individually source-checked,Not yet species/license verified,,Pending
+Catnip,Nepeta cataria,Not yet individually source-checked,Not yet species/license verified,,Pending
+Yarrow,Achillea millefolium,Not yet individually source-checked,Not yet species/license verified,,Pending
+Plantain Leaf,Plantago major,Not yet individually source-checked,Not yet species/license verified,,Pending
+Marshmallow Root,Althaea officinalis,Not yet individually source-checked,Not yet species/license verified,,Pending
+Slippery Elm,Ulmus rubra,Not yet individually source-checked,Not yet species/license verified,,Pending
+Mullein,Verbascum thapsus,Not yet individually source-checked,Not yet species/license verified,,Pending
+Comfrey,Symphytum officinale,Not yet individually source-checked,Not yet species/license verified,,Pending
+Arnica,Arnica montana,Not yet individually source-checked,Not yet species/license verified,,Pending
+Witch Hazel,Hamamelis virginiana,Not yet individually source-checked,Not yet species/license verified,,Pending
+Tea Tree,Melaleuca alternifolia,Not yet individually source-checked,Not yet species/license verified,,Pending
+Eucalyptus,Eucalyptus globulus,Not yet individually source-checked,Not yet species/license verified,,Pending
+Pine,Pinus sylvestris,Not yet individually source-checked,Not yet species/license verified,,Pending
+Juniper,Juniperus communis,Not yet individually source-checked,Not yet species/license verified,,Pending
+Cedar,Cedrus atlantica,Not yet individually source-checked,Not yet species/license verified,,Pending
+Frankincense,Boswellia sacra,Not yet individually source-checked,Not yet species/license verified,,Pending
+Myrrh,Commiphora myrrha,Not yet individually source-checked,Not yet species/license verified,,Pending
+Licorice Root,Glycyrrhiza glabra,Not yet individually source-checked,Not yet species/license verified,,Pending
+Burdock,Arctium lappa,Not yet individually source-checked,Not yet species/license verified,,Pending
+Milk Thistle,Silybum marianum,Not yet individually source-checked,Not yet species/license verified,,Pending
+Artichoke,Cynara cardunculus var. scolymus,Not yet individually source-checked,Not yet species/license verified,,Pending
+Chicory,Cichorium intybus,Not yet individually source-checked,Not yet species/license verified,,Pending
+Red Clover,Trifolium pratense,Not yet individually source-checked,Not yet species/license verified,,Pending
+Alfalfa,Medicago sativa,Not yet individually source-checked,Not yet species/license verified,,Pending
+Oat,Avena sativa,Not yet individually source-checked,Not yet species/license verified,,Pending
+Flax,Linum usitatissimum,Not yet individually source-checked,Not yet species/license verified,,Pending
+Chia,Salvia hispanica,Not yet individually source-checked,Not yet species/license verified,,Pending
+Fenugreek,Trigonella foenum-graecum,Not yet individually source-checked,Not yet species/license verified,,Pending
+Ashwagandha,Withania somnifera,Not yet individually source-checked,Not yet species/license verified,,Pending
+Ginseng,Panax ginseng,Not yet individually source-checked,Not yet species/license verified,,Pending
+Eleuthero,Eleutherococcus senticosus,Not yet individually source-checked,Not yet species/license verified,,Pending
+Rhodiola,Rhodiola rosea,Not yet individually source-checked,Not yet species/license verified,,Pending
+Gotu Kola,Centella asiatica,Not yet individually source-checked,Not yet species/license verified,,Pending
+Ginkgo,Ginkgo biloba,Not yet individually source-checked,Not yet species/license verified,,Pending
+Moringa,Moringa oleifera,Not yet individually source-checked,Not yet species/license verified,,Pending
+Neem,Azadirachta indica,Not yet individually source-checked,Not yet species/license verified,,Pending
+Amla,Phyllanthus emblica,Not yet individually source-checked,Not yet species/license verified,,Pending
+Brahmi,Bacopa monnieri,Not yet individually source-checked,Not yet species/license verified,,Pending
+Shatavari,Asparagus racemosus,Not yet individually source-checked,Not yet species/license verified,,Pending
+Guduchi,Tinospora cordifolia,Not yet individually source-checked,Not yet species/license verified,,Pending
+Andrographis,Andrographis paniculata,Not yet individually source-checked,Not yet species/license verified,,Pending
+Goldenseal,Hydrastis canadensis,Not yet individually source-checked,Not yet species/license verified,,Pending
+Oregon Grape,Mahonia aquifolium,Not yet individually source-checked,Not yet species/license verified,,Pending
+Black Cohosh,Actaea racemosa,Not yet individually source-checked,Not yet species/license verified,,Pending
+Dong Quai,Angelica sinensis,Not yet individually source-checked,Not yet species/license verified,,Pending
+Evening Primrose,Oenothera biennis,Not yet individually source-checked,Not yet species/license verified,,Pending
+Borage,Borago officinalis,Not yet individually source-checked,Not yet species/license verified,,Pending
+Saffron,Crocus sativus,Not yet individually source-checked,Not yet species/license verified,,Pending
+Bay Laurel,Laurus nobilis,Not yet individually source-checked,Not yet species/license verified,,Pending
+Stevia,Stevia rebaudiana,Not yet individually source-checked,Not yet species/license verified,,Pending
+Lemon Verbena,Aloysia citrodora,Not yet individually source-checked,Not yet species/license verified,,Pending
+Spearmint,Mentha spicata,Not yet individually source-checked,Not yet species/license verified,,Pending
+Wintergreen,Gaultheria procumbens,Not yet individually source-checked,Not yet species/license verified,,Pending
+African Marigold,Tagetes erecta,Not yet individually source-checked,Not yet species/license verified,,Pending
+Nasturtium,Tropaeolum majus,Not yet individually source-checked,Not yet species/license verified,,Pending
+Violet,Viola odorata,Not yet individually source-checked,Not yet species/license verified,,Pending
+Lemon Myrtle,Backhousia citriodora,Not yet individually source-checked,Not yet species/license verified,,Pending
+Kaffir Lime,Citrus hystrix,Not yet individually source-checked,Not yet species/license verified,,Pending
+Sweet Orange,Citrus sinensis,Not yet individually source-checked,Not yet species/license verified,,Pending
+Bitter Orange,Citrus aurantium,Not yet individually source-checked,Not yet species/license verified,,Pending
+Lemon,Citrus limon,Not yet individually source-checked,Not yet species/license verified,,Pending
+Lime,Citrus aurantiifolia,Not yet individually source-checked,Not yet species/license verified,,Pending
+Grapefruit,Citrus × paradisi,Not yet individually source-checked,Not yet species/license verified,,Pending
+Mandarin,Citrus reticulata,Not yet individually source-checked,Not yet species/license verified,,Pending
+Bergamot Orange,Citrus bergamia,Not yet individually source-checked,Not yet species/license verified,,Pending
+Yuzu,Citrus junos,Not yet individually source-checked,Not yet species/license verified,,Pending
+Kumquat,Citrus japonica,Not yet individually source-checked,Not yet species/license verified,,Pending
+Olive,Olea europaea,Not yet individually source-checked,Not yet species/license verified,,Pending
+Avocado,Persea americana,Not yet individually source-checked,Not yet species/license verified,,Pending
+Coconut,Cocos nucifera,Not yet individually source-checked,Not yet species/license verified,,Pending
+Cocoa,Theobroma cacao,Not yet individually source-checked,Not yet species/license verified,,Pending
+Coffee,Coffea arabica,Not yet individually source-checked,Not yet species/license verified,,Pending
+Tea,Camellia sinensis,Not yet individually source-checked,Not yet species/license verified,,Pending
+Yerba Mate,Ilex paraguariensis,Not yet individually source-checked,Not yet species/license verified,,Pending
+Guayusa,Ilex guayusa,Not yet individually source-checked,Not yet species/license verified,,Pending
+Rooibos,Aspalathus linearis,Not yet individually source-checked,Not yet species/license verified,,Pending
+Honeybush,Cyclopia intermedia,Not yet individually source-checked,Not yet species/license verified,,Pending
+Butterfly Pea,Clitoria ternatea,Not yet individually source-checked,Not yet species/license verified,,Pending
+Blue Lotus,Nymphaea caerulea,Not yet individually source-checked,Not yet species/license verified,,Pending
+Lotus,Nelumbo nucifera,Not yet individually source-checked,Not yet species/license verified,,Pending
+Water Lily,Nymphaea alba,Not yet individually source-checked,Not yet species/license verified,,Pending
+Watercress,Nasturtium officinale,Not yet individually source-checked,Not yet species/license verified,,Pending
+Purslane,Portulaca oleracea,Not yet individually source-checked,Not yet species/license verified,,Pending
+Sorrel,Rumex acetosa,Not yet individually source-checked,Not yet species/license verified,,Pending
+Sheep Sorrel,Rumex acetosella,Not yet individually source-checked,Not yet species/license verified,,Pending
+Yellow Dock,Rumex crispus,Not yet individually source-checked,Not yet species/license verified,,Pending
+Broadleaf Dock,Rumex obtusifolius,Not yet individually source-checked,Not yet species/license verified,,Pending
+Chickweed,Stellaria media,Not yet individually source-checked,Not yet species/license verified,,Pending
+Cleavers,Galium aparine,Not yet individually source-checked,Not yet species/license verified,,Pending
+Lady's Mantle,Alchemilla vulgaris,Not yet individually source-checked,Not yet species/license verified,,Pending
+Meadowsweet,Filipendula ulmaria,Not yet individually source-checked,Not yet species/license verified,,Pending
+Queen Anne's Lace,Daucus carota,Not yet individually source-checked,Not yet species/license verified,,Pending
+Angelica,Angelica archangelica,Not yet individually source-checked,Not yet species/license verified,,Pending
+Lovage,Levisticum officinale,Not yet individually source-checked,Not yet species/license verified,,Pending
+Chervil,Anthriscus cerefolium,Not yet individually source-checked,Not yet species/license verified,,Pending
+Tarragon,Artemisia dracunculus,Not yet individually source-checked,Not yet species/license verified,,Pending
+Mugwort,Artemisia vulgaris,Not yet individually source-checked,Not yet species/license verified,,Pending
+Wormwood,Artemisia absinthium,Not yet individually source-checked,Not yet species/license verified,,Pending
+Southernwood,Artemisia abrotanum,Not yet individually source-checked,Not yet species/license verified,,Pending
+Sweet Annie,Artemisia annua,Not yet individually source-checked,Not yet species/license verified,,Pending
+Hyssop,Hyssopus officinalis,Not yet individually source-checked,Not yet species/license verified,,Pending
+Anise Hyssop,Agastache foeniculum,Not yet individually source-checked,Not yet species/license verified,,Pending
+Bee Balm,Monarda didyma,Not yet individually source-checked,Not yet species/license verified,,Pending
+Wild Bergamot,Monarda fistulosa,Not yet individually source-checked,Not yet species/license verified,,Pending
+Savory,Satureja hortensis,Not yet individually source-checked,Not yet species/license verified,,Pending
+Winter Savory,Satureja montana,Not yet individually source-checked,Not yet species/license verified,,Pending

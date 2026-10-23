@@ -5,25 +5,25 @@
     "wiki": "Aloe_vera",
     "overview": "A succulent with thick fleshy leaves containing a clear inner gel.",
     "tradition": "The clear inner-leaf gel has a long history of topical use for minor skin discomfort.",
-    "safety": "Avoid oral aloe latex, which can cause diarrhea and electrolyte disturbances. Patch-test topical products; seek care for serious burns.",
+    "safety": "Topical aloe gel is generally tolerated but can cause irritation or allergic reactions. Oral aloe latex can cause abdominal cramps and diarrhea; whole-leaf oral extracts have additional safety concerns, including reports of liver injury. Do not substitute aloe for treatment of serious burns.",
     "review": "starter",
-    "history": "Historical context has not yet been individually verified against an ethnobotanical source. Refer to the traditional-use section as an editorial draft, not an authenticated cultural history.",
+    "history": "Aloe has a documented history of use for skin conditions in ancient Greece, Rome, Babylonia, and China. Historical use does not establish effectiveness.",
     "traditional_uses": "The clear inner-leaf gel has a long history of topical use for minor skin discomfort.",
-    "research_evidence": "Some clinical evidence supports certain topical aloe formulations for minor burns, but studies differ; it is not a substitute for burn care.",
+    "research_evidence": "Clinical studies suggest topical aloe gel may help some burns heal, but evidence varies by product and injury. Evidence is insufficient for many other promoted uses.",
     "preparation": "Commercially prepared topical gel is different from whole-leaf extracts and yellow latex.",
     "growing": "",
     "plant_parts": "",
-    "drug_interactions": "Unknown or not reviewed. Potential interactions cannot be ruled out.",
+    "drug_interactions": "Oral aloe preparations may interact with medicines; consult a pharmacist before using aloe supplements, especially alongside diabetes medicines or other prescriptions.",
     "pregnancy_breastfeeding": "Safety not established; avoid medicinal use without individualized medical advice.",
     "identification": "Botanical name in this catalog: Aloe vera. Verify species and distinguishing features with a regional flora before collecting.",
-    "source_references": "https://powo.science.kew.org/ ; https://www.nccih.nih.gov/health/herbsataglance",
+    "source_references": "NIH NCCIH: https://www.nccih.nih.gov/health/aloe-vera",
     "safety_status": "UNVERIFIED — do not assume safe",
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "CORRECTED EDITORIAL DRAFT — individual source, safety and image verification still required",
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Source-checked: evidence and safety (photo pending)",
     "review_priority": "STANDARD"
   },
   {
@@ -50,7 +50,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "HIGH"
   },
   {
@@ -77,7 +77,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -104,7 +104,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -131,7 +131,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -140,25 +140,25 @@
     "wiki": "Ginger",
     "overview": "A tropical plant valued for its aromatic underground rhizome.",
     "tradition": "Traditionally used in foods and beverages for digestive comfort.",
-    "safety": "Supplements may cause heartburn and can interact with medicines. Pregnant people should discuss therapeutic use with a clinician.",
+    "safety": "Oral ginger can cause heartburn, abdominal discomfort, diarrhea, and mouth or throat irritation. Concentrated supplements may have interactions; discuss supplement use with a clinician, particularly during pregnancy.",
     "review": "starter",
-    "history": "Historical context has not yet been individually verified against an ethnobotanical source. Refer to the traditional-use section as an editorial draft, not an authenticated cultural history.",
+    "history": "Ginger rhizome has a long history of culinary and traditional medicinal use in Asia, including for gastrointestinal discomfort.",
     "traditional_uses": "Traditionally used in foods and beverages for digestive comfort.",
-    "research_evidence": "Research supports ginger for some forms of nausea, especially pregnancy-related nausea, though product and dose matter.",
+    "research_evidence": "NIH reports ginger may help pregnancy-related nausea and vomiting; evidence is less certain for chemotherapy- or surgery-related nausea. Studies usually examine supplements rather than ordinary foods.",
     "preparation": "Use food-grade ginger in cooking or beverages; concentrated supplements require separate evaluation.",
     "growing": "",
     "plant_parts": "",
     "drug_interactions": "Unknown or not reviewed. Potential interactions cannot be ruled out.",
-    "pregnancy_breastfeeding": "Safety not established; avoid medicinal use without individualized medical advice.",
+    "pregnancy_breastfeeding": "Food amounts are distinct from supplements. Some evidence suggests ginger may help pregnancy-related nausea and supplement use may be safe, but pregnant people should consult a clinician before medicinal use. Breastfeeding safety data for supplements are limited.",
     "identification": "Botanical name in this catalog: Zingiber officinale. Verify species and distinguishing features with a regional flora before collecting.",
-    "source_references": "https://powo.science.kew.org/ ; https://www.nccih.nih.gov/health/herbsataglance",
+    "source_references": "NIH NCCIH: https://www.nccih.nih.gov/health/ginger",
     "safety_status": "UNVERIFIED — do not assume safe",
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "CORRECTED EDITORIAL DRAFT — individual source, safety and image verification still required",
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Source-checked: evidence and safety (photo pending)",
     "review_priority": "STANDARD"
   },
   {
@@ -167,25 +167,25 @@
     "wiki": "Turmeric",
     "overview": "A tropical plant with bright orange underground rhizomes.",
     "tradition": "Traditionally used in food and diverse regional wellness practices.",
-    "safety": "Some concentrated turmeric/curcumin supplements have been linked to liver injury and may interact with medicines. Use extra caution with gallbladder problems.",
+    "safety": "Concentrated turmeric or curcumin supplements, especially enhanced-absorption products, have been linked to rare liver injury. Stop a supplement and seek medical advice for dark urine, jaundice, unusual fatigue or nausea. Oral products can also cause stomach upset and reflux. Culinary use is not equivalent to concentrated supplements.",
     "review": "starter",
-    "history": "Historical context has not yet been individually verified against an ethnobotanical source. Refer to the traditional-use section as an editorial draft, not an authenticated cultural history.",
+    "history": "Turmeric rhizomes have a long history as a culinary spice and in traditional South Asian health practices; traditional use does not prove a disease-treatment benefit.",
     "traditional_uses": "Traditionally used in food and diverse regional wellness practices.",
-    "research_evidence": "Curcumin has been studied extensively, but many disease-treatment claims remain unproven; absorption and formulations differ.",
+    "research_evidence": "Curcumin and turmeric have been studied for several conditions, but many proposed treatment benefits remain uncertain; results for particular supplement formulations cannot be applied to culinary turmeric.",
     "preparation": "Culinary turmeric is used in dishes and drinks; concentrated extracts are not equivalent.",
     "growing": "",
     "plant_parts": "",
     "drug_interactions": "Unknown or not reviewed. Potential interactions cannot be ruled out.",
-    "pregnancy_breastfeeding": "Safety not established; avoid medicinal use without individualized medical advice.",
+    "pregnancy_breastfeeding": "Turmeric supplements may be unsafe during pregnancy; safety of medicinal amounts during breastfeeding is poorly understood. Culinary quantities are a different exposure.",
     "identification": "Botanical name in this catalog: Curcuma longa. Verify species and distinguishing features with a regional flora before collecting.",
-    "source_references": "https://powo.science.kew.org/ ; https://www.nccih.nih.gov/health/herbsataglance",
+    "source_references": "NIH NCCIH: https://www.nccih.nih.gov/health/turmeric ; NCBI LiverTox: https://www.ncbi.nlm.nih.gov/books/NBK548561/",
     "safety_status": "UNVERIFIED — do not assume safe",
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "CORRECTED EDITORIAL DRAFT — individual source, safety and image verification still required",
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Source-checked: evidence and safety (photo pending)",
     "review_priority": "STANDARD"
   },
   {
@@ -212,7 +212,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -239,7 +239,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -266,7 +266,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -293,7 +293,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -320,7 +320,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -347,7 +347,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -374,7 +374,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -401,7 +401,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -428,7 +428,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -455,7 +455,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -482,7 +482,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -509,7 +509,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -536,7 +536,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -563,7 +563,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -590,7 +590,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -617,7 +617,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -644,7 +644,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -671,7 +671,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -698,7 +698,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -725,7 +725,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -752,7 +752,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -779,7 +779,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -806,7 +806,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -833,7 +833,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -860,7 +860,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -887,7 +887,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -914,7 +914,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -941,7 +941,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -968,7 +968,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -995,7 +995,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -1022,7 +1022,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -1049,7 +1049,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -1076,7 +1076,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -1103,7 +1103,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -1130,7 +1130,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -1157,7 +1157,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -1184,7 +1184,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -1211,7 +1211,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -1238,7 +1238,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -1265,7 +1265,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -1292,7 +1292,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -1319,7 +1319,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -1346,7 +1346,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -1373,7 +1373,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -1400,7 +1400,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "HIGH"
   },
   {
@@ -1427,7 +1427,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "HIGH"
   },
   {
@@ -1454,7 +1454,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -1481,7 +1481,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "HIGH"
   },
   {
@@ -1508,7 +1508,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -1535,7 +1535,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -1562,7 +1562,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -1589,7 +1589,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -1616,7 +1616,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -1643,7 +1643,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -1670,7 +1670,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "HIGH"
   },
   {
@@ -1697,7 +1697,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -1724,7 +1724,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -1751,7 +1751,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT VERIFIED: image may show globe artichoke or a related cardoon; require cultivated-form review and licensing.",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "HIGH"
   },
   {
@@ -1778,7 +1778,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -1805,7 +1805,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -1832,7 +1832,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -1859,7 +1859,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -1886,7 +1886,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -1913,7 +1913,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -1940,7 +1940,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -1967,7 +1967,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "HIGH"
   },
   {
@@ -1994,7 +1994,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -2021,7 +2021,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -2048,7 +2048,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -2075,7 +2075,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -2102,7 +2102,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -2129,7 +2129,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -2156,7 +2156,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "HIGH"
   },
   {
@@ -2183,7 +2183,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -2210,7 +2210,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -2237,7 +2237,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -2264,7 +2264,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "HIGH"
   },
   {
@@ -2291,7 +2291,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -2318,7 +2318,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -2345,7 +2345,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -2372,7 +2372,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -2399,7 +2399,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -2426,7 +2426,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -2453,7 +2453,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -2480,7 +2480,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -2507,7 +2507,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -2534,7 +2534,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -2561,7 +2561,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -2588,7 +2588,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -2615,7 +2615,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "HIGH"
   },
   {
@@ -2642,7 +2642,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "HIGH"
   },
   {
@@ -2669,7 +2669,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -2696,7 +2696,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -2723,7 +2723,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -2750,7 +2750,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -2777,7 +2777,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -2804,7 +2804,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "HIGH"
   },
   {
@@ -2831,7 +2831,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -2858,7 +2858,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -2885,7 +2885,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "HIGH"
   },
   {
@@ -2912,7 +2912,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -2939,7 +2939,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -2966,7 +2966,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -2993,7 +2993,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -3020,7 +3020,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -3047,7 +3047,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -3074,7 +3074,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -3101,7 +3101,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -3128,7 +3128,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -3155,7 +3155,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -3182,7 +3182,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -3209,7 +3209,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -3236,7 +3236,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -3263,7 +3263,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -3290,7 +3290,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -3317,7 +3317,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -3344,7 +3344,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -3371,7 +3371,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -3398,7 +3398,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -3425,7 +3425,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -3452,7 +3452,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -3479,7 +3479,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -3506,7 +3506,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -3533,7 +3533,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -3560,7 +3560,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -3587,7 +3587,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -3614,7 +3614,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -3641,7 +3641,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -3668,7 +3668,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "HIGH"
   },
   {
@@ -3695,7 +3695,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -3722,7 +3722,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -3749,7 +3749,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -3776,7 +3776,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -3803,7 +3803,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -3830,7 +3830,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "HIGH"
   },
   {
@@ -3857,7 +3857,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -3884,7 +3884,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "HIGH"
   },
   {
@@ -3911,7 +3911,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -3938,7 +3938,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -3965,7 +3965,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -3992,7 +3992,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -4019,7 +4019,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -4046,7 +4046,7 @@
     "publication_ready": false,
     "launch_group": "initial_150",
     "photo_status": "NOT SPECIES-VERIFIED: external Wikipedia image; photographer, license and exact taxon not independently checked",
-    "verification_status": "NEEDS EXPERT REVIEW — NOT VERIFIED",
+    "verification_status": "Pending individual source review",
     "review_priority": "STANDARD"
   },
   {
@@ -4071,7 +4071,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Greek Oregano",
@@ -4095,7 +4096,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Pennyroyal",
@@ -4119,7 +4121,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Apple Mint",
@@ -4143,7 +4146,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Chocolate Mint",
@@ -4167,7 +4171,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Pineapple Sage",
@@ -4191,7 +4196,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Clary Sage",
@@ -4215,7 +4221,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "White Sage",
@@ -4239,7 +4246,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Mexican Sage",
@@ -4263,7 +4271,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Greek Sage",
@@ -4287,7 +4296,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Lamb's Ear",
@@ -4311,7 +4321,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Wood Betony",
@@ -4335,7 +4346,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Motherwort",
@@ -4359,7 +4371,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Bugleweed",
@@ -4383,7 +4396,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Self-Heal",
@@ -4407,7 +4421,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Ground Ivy",
@@ -4431,7 +4446,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Horehound",
@@ -4455,7 +4471,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Lemon Thyme",
@@ -4479,7 +4496,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Creeping Thyme",
@@ -4503,7 +4521,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Bayberry",
@@ -4527,7 +4546,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Sweet Fern",
@@ -4551,7 +4571,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Sweetgrass",
@@ -4575,7 +4596,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Vetiver",
@@ -4599,7 +4621,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Palmarosa",
@@ -4623,7 +4646,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Citronella Grass",
@@ -4647,7 +4671,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Patchouli",
@@ -4671,7 +4696,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Ylang-Ylang",
@@ -4695,7 +4721,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Geranium",
@@ -4719,7 +4746,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Rose Geranium",
@@ -4743,7 +4771,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Helichrysum",
@@ -4767,7 +4796,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Immortelle",
@@ -4791,7 +4821,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Daisy",
@@ -4815,7 +4846,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Oxeye Daisy",
@@ -4839,7 +4871,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Cornflower",
@@ -4863,7 +4896,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Bachelor's Button",
@@ -4887,7 +4921,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Sunflower",
@@ -4911,7 +4946,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Jerusalem Artichoke",
@@ -4935,7 +4971,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Dahlia",
@@ -4959,7 +4996,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Chrysanthemum",
@@ -4983,7 +5021,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Feverfew",
@@ -5007,7 +5046,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Tansy",
@@ -5031,7 +5071,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Goldenrod",
@@ -5055,7 +5096,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Boneset",
@@ -5079,7 +5121,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Joe-Pye Weed",
@@ -5103,7 +5146,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Coltsfoot",
@@ -5127,7 +5171,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Elecampane",
@@ -5151,7 +5196,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Daisy Fleabane",
@@ -5175,7 +5221,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "St. John's Wort",
@@ -5199,7 +5246,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "California Poppy",
@@ -5223,7 +5271,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Poppy",
@@ -5247,7 +5296,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Corn Poppy",
@@ -5271,7 +5321,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Bloodroot",
@@ -5295,7 +5346,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Blue Cohosh",
@@ -5319,7 +5371,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Trillium",
@@ -5343,7 +5396,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Mayapple",
@@ -5367,7 +5421,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Solomon's Seal",
@@ -5391,7 +5446,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "False Solomon's Seal",
@@ -5415,7 +5471,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Wild Yam",
@@ -5439,7 +5496,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Yam",
@@ -5463,7 +5521,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Sweet Potato",
@@ -5487,7 +5546,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Cassava",
@@ -5511,7 +5571,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Arrowroot",
@@ -5535,7 +5596,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Kudzu",
@@ -5559,7 +5621,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Kava",
@@ -5583,7 +5646,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Betel Leaf",
@@ -5607,7 +5671,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Long Pepper",
@@ -5631,7 +5696,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Cubeb",
@@ -5655,7 +5721,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Sarsaparilla",
@@ -5679,7 +5746,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Sassafras",
@@ -5703,7 +5771,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Birch",
@@ -5727,7 +5796,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Willow",
@@ -5751,7 +5821,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "White Oak",
@@ -5775,7 +5846,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Red Oak",
@@ -5799,7 +5871,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Beech",
@@ -5823,7 +5896,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Maple",
@@ -5847,7 +5921,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Black Walnut",
@@ -5871,7 +5946,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "English Walnut",
@@ -5895,7 +5971,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Hazelnut",
@@ -5919,7 +5996,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Chestnut",
@@ -5943,7 +6021,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Sweet Gum",
@@ -5967,7 +6046,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Balsam Fir",
@@ -5991,7 +6071,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Douglas Fir",
@@ -6015,7 +6096,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Spruce",
@@ -6039,7 +6121,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Hemlock Tree",
@@ -6063,7 +6146,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Cypress",
@@ -6087,7 +6171,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Redwood",
@@ -6111,7 +6196,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Bamboo",
@@ -6135,7 +6221,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Horsetail",
@@ -6159,7 +6246,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Bracken Fern",
@@ -6183,7 +6271,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Maidenhair Fern",
@@ -6207,7 +6296,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Irish Moss",
@@ -6231,7 +6321,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Kelp",
@@ -6255,7 +6346,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Bladderwrack",
@@ -6279,7 +6371,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Spirulina",
@@ -6303,7 +6396,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Chlorella",
@@ -6327,7 +6421,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Blackberry",
@@ -6351,7 +6446,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Raspberry",
@@ -6375,7 +6471,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Strawberry",
@@ -6399,7 +6496,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Blueberry",
@@ -6423,7 +6521,8 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   },
   {
     "name": "Bilberry",
@@ -6447,6 +6546,7 @@
     "unverified_safety_warning": "SAFETY NOT ESTABLISHED: This plant profile has not undergone individual clinical/toxicological review. Traditional use does not prove effectiveness or safety. Do not ingest, apply medicinally, or use in pregnancy, breastfeeding, children, or alongside medications based on this profile. Consult a qualified healthcare professional and confirm species and plant part.",
     "profile_status": "pending",
     "publication_ready": false,
-    "launch_group": "coming_soon"
+    "launch_group": "coming_soon",
+    "verification_status": "Coming Soon — not reviewed"
   }
 ]
