@@ -1,0 +1,18 @@
+EARTH & ESSENCE — LAUNCH PAGE TEST PACKAGE
+
+This package preserves the working plant profiles and adds a Membership tab with Free Visitor and $25/month Founding Member preview. No payment is collected; the paid checkout is intentionally disabled.
+
+HOW TO TEST
+1. Unzip. Upload the CONTENTS (not ZIP) to the ROOT of your existing GitHub Pages preview repository.
+2. Keep the assets/ folder with its internal files. Commit changes.
+3. Open https://earthandessence.github.io/earth-essence-preview/?v=launch-20261023
+4. Test Plant Library > Calendula > all six tabs, and Membership > Free Visitor button.
+5. Paid checkout remains disabled by design. Do NOT tell customers they can buy secure access yet.
+
+WHAT YOU NEED FOR REAL PAYMENTS
+- Stripe $25 recurring price + hosted checkout/payment link
+- Secure server-side membership authentication and content access control (GitHub Pages is PUBLIC)
+- Clearly delivered paid benefit, published subscription/cancellation/refund terms and privacy policy
+- Further plant safety, species/photo and image license reviews
+
+IMPORTANT: This is a development preview, not a finished secure subscription product.
