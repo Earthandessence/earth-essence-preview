@@ -1,0 +1,8 @@
+EARTH & ESSENCE — REDESIGNED TEST APP
+
+1. Unzip this file in the iPad Files app.
+2. Upload the contents (not the ZIP) to the existing GitHub repository earth-essence-preview.
+3. Preserve the assets/ folder structure. A copy of the main logo is also at the root for fallback.
+4. Commit changes, then open https://earthandessence.github.io/earth-essence-preview/ and refresh.
+
+This ZIP includes the redesigned home page, botanical-style plant cards, and six-tab plant profiles. The approved mockup is a visual direction, not an exact recreation. 150 profiles are educational drafts; 100 are Coming Soon. Plant photos and licenses have NOT been individually verified. The subscription checkout is not live.
