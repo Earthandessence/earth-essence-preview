@@ -1,0 +1,20 @@
+EARTH & ESSENCE — ONE CONSOLIDATED UPLOAD PACKAGE
+
+Contents: entire GitHub Pages website, logo/icons, 250 plant records, 150
+educational draft profiles, 100 Coming Soon entries, and a 150-photo audit CSV.
+
+INSTALL: Unzip. Upload the FILES AND assets/ FOLDER inside the ZIP to the
+ROOT of your earth-essence-preview GitHub repository. Do not upload the ZIP
+itself to GitHub Pages. Keep the same folder structure.
+
+IMPORTANT STATUS — NOT THE FINISHED COMMERCIAL PRODUCT:
+The app displays external Wikipedia photos where available. No 150 local,
+licensed, species-authenticated photo collection is included. Some image
+references can point to the wrong species; users must never identify edible
+or medicinal wild plants from a photo alone. The 150 profiles are educational
+drafts and contain varying degrees of specificity; they have NOT been
+individually clinically or botanically verified. No secure membership paywall.
+The elegant three-screen mockup is an inspiration reference, NOT the exact
+interface of this ZIP. This is for the public preview, not a paid launch.
+
+No previous files need to be merged. This package supersedes earlier previews.

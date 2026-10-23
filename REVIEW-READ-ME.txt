@@ -1,0 +1,11 @@
+EARTH & ESSENCE - CORRECTED EDITORIAL DRAFT
+
+150 initial plant entries + 100 Coming Soon.
+Corrections applied: 180 field edits across 150 plant profiles.
+IMPORTANT: This is not a verified botanical/medical reference and is NOT cleared for a paid health app.
+No external photos have been bundled or individually species/license verified.
+Every one of the first 150 remains marked NOT VERIFIED and publication_ready=false.
+See review-audit-150.csv and corrections-log.csv.
+Taxonomy reference examples: https://powo.science.kew.org/ ; https://mpns.science.kew.org/mpns-portal/
+Safety review reference: https://www.nccih.nih.gov/health/herbsataglance
+Professional medical/toxicology and botanical review is recommended before commercial publication.
