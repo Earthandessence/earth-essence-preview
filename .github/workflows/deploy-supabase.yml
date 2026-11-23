@@ -26,4 +26,4 @@ jobs:
         run: |
           supabase functions deploy stripe-webhook \
             --project-ref "$SUPABASE_PROJECT_REF" \
-            --no-verify-jwt
+            --no-verify-jwt --yes
